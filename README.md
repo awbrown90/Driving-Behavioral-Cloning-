@@ -1,5 +1,8 @@
 # Driving-Behavioral-Cloning-
 
+To watch the car drive its self in action check out the video!
+https://youtu.be/Wp2iw8U2pZU
+
 The files for this project include.
 model.py
 drive.py
